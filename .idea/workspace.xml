@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="014db6c2-7cb9-4bf9-8b05-4c6ae05f254a" name="Changes" comment="" />
+    <list default="true" id="014db6c2-7cb9-4bf9-8b05-4c6ae05f254a" name="Changes" comment="A number guesser game with a score tracker." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +17,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Sdpyy64NKwXoMZI78W5LIhiGiJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,6 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Harley/PycharmProjects/number_guesser",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -42,6 +47,38 @@
       <option name="presentableId" value="Default" />
       <updated>1689486570540</updated>
     </task>
+    <task id="LOCAL-00001" summary="A number guesser game with a score tracker.">
+      <option name="closed" value="true" />
+      <created>1689488850094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689488850094</updated>
+    </task>
+    <task id="LOCAL-00002" summary="A number guesser game with a score tracker.">
+      <option name="closed" value="true" />
+      <created>1689488860360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689488860360</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A number guesser game with a score tracker." />
+    <option name="LAST_COMMIT_MESSAGE" value="A number guesser game with a score tracker." />
   </component>
 </project>
